@@ -7,7 +7,7 @@
   📧 dikshitarao06@gmail.com  
   🌐 [Portfolio](https://dikshitarao.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/v-dikshita-rao-dikshita/)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I’ve built both an intelligent traffic system with Arduino and a cloud-ready URL shortener with Spring Boot—hardware meets software in my world!
+
 
 DikshitaRao/DikshitaRao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
